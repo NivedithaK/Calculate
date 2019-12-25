@@ -6,11 +6,11 @@ make the logic in ViewController more efficient first!
 # Screenshots
 
 App icon: 
-<p align="center"><img src="https://i.imgur.com/XYTa5By.jpg" alt="App"
+<p align="center"><img src="https://lh3.googleusercontent.com/5NsZHz_oU5pv0EVXBPqvszzGMmheDgM-Cb2nZLtXAtRd9OwL8hQL6aPJBOMsdVmtGsL5wVsFczvFARCRy5JD764ppvXSltMbL78g7ad1LG2BKc2In2cOU2QFD5C2zPZXUPZrzGUd-1sHENp0zXL0hHTsAveMfHOZUR9hMwjE6aozsVz4CHoOfIyqm8YNwiqrnMyQZyhiYBlYySowg8I3942Cxp-omCO-fMD8LVQbqY0ttCGCll6ixbhwUQTtup_zbsv89NHfxXpL2lI-4ee_PHiClGWdPZt-p8rj3y_X9a8Rw6NHf6E2TCV-Am30DuvLhxQq7jyhLveZ4T0fZo3KzOvAaWTjC07MpJ4Jb6G_o3NxU0xCm-ECEUxDDPPuQGRdjy605I8IdreMqrYcZNFgJcPck913UUThw0A3GtkzHrhqx8mQdOduTTtYygWjmjavcspHQ238EryFXsGnNU1NIPR8q6iVaGlbuxzm8Sz49mHEZMLblj9jX-uYLTe4Vr9J99LEImj07fSYHcpGUoxgqJI3ZQW_nwOtUv5o5WOoMNDDR85bRDIoiHT-PvRPDW9ld8IBGET6SFTAr2kHjZCZJW_Q5N0f2oGPIUXNxh6D5YN6uFLkvP92SV6yK-HHAQlM-SL4gbYqgrC8_QmkVw37A4vS_j3upYZoOTVD6JOZoLxQuQtisXbtsgE=w174-h195-no" alt="App"
 	title="Icon" width="53.4" height="60" /></p>
   
 Calculator screen:
-  <p align="center"><img src="https://i.imgur.com/S3o0BA0.jpg" alt="App"
+  <p align="center"><img src="https://lh3.googleusercontent.com/CIcrjMEOBJFLw97Ia5S7QSNzOf23De_oGO68tncw5wkIU3LnBOg2kvxm9G9oXk03bXWKq97ENWB1SqiUtlV-Q7JK9kKn1fF9po_zDE6Aqu3tfFM_I3z9vHenuBKj2A0BBUuB2J47sCNK2vgeD0MqroXGg9O6M2KWoJ74VDYoRVFBZB9GTPA_EZoP2fkfyVl594UNcb5r4YRykxGLJrw7qnjPZ2UtgkrbSzxBGy7WVdAowcd59ePZCicWy-VkgjzEOGvC7e43lJnhHVr90G7zMU64Cp2H62UauaKyLoWOIGEnDU0ptZ0Q1xtkI1Cy8bvrZjk4KBEfeLf0rdEmEWBvYwI1tU1iJupLdIq5M1lpht0kIQjjaTatErhJ79htz3qy2avS9dxqIOKO2zbZrE3i8KhzwEK-16gO5vXT1PAnGxxgExfAzOmAHKkt-FEkF8rGby1biiT6Lw86lsdU79Qf08d2IzRhA__6tpusNvjoJ2-yqy2UA6OJLWQnJVC4cHFHHOnXnvqeDjwPTodEo6rCp1s1NJotG8E0rSfgIpBTLjUZnzBrNNf6KViD_0J4r4Lopx_V8n2mmkMK002wu6UO_OhgddkxlD8xZwNGc8noGxhO_DkLCygzU2KjFCs0kZRamxcOrDHd25ykph5jdth0wpDWsUHehJzbt0XTryQj50UaJI_6A55EeXs=w690-h1224-no" alt="App"
 	title="Icon" width="168" height="300" /></p>
   
 # Notes
